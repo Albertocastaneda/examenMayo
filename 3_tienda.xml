@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="3_tienda.xsl" type="text/xsl"?>
+<tienda>
+             
+    <title>Tienda Online</title>
+    <encabezado>Bienvenid@s a mi tienda</encabezado>
+    <descripcion>Esto es una tienda online que vende productos a través de internet</descripcion>
+
+    <productos>
+        <producto>
+            <titulo>Lapizero</titulo>
+            <descripcionproducto>Utensilio para la escritura</descripcionproducto>
+            <precio>2 euros</precio>
+        </producto>
+
+        <producto>
+            <titulo>Secador</titulo>
+            <descripcionproducto>Utensilio utilizado para secar el pelo</descripcionproducto>
+            <precio>15 euros</precio>
+        </producto>
+
+        <producto>
+            <titulo>Estuche</titulo>
+            <descripcionproducto>Utensilio guardar todo tipo de cosas desde utensilios escolare: lapizeros, colores,tijeras etc</descripcionproducto>
+            <precio>5 euros</precio>
+        </producto>
+
+        <producto>
+            <titulo>Mochila</titulo>
+            <descripcionproducto>Utensilio para guardar libros, carpeta, ropa, cualquier tipo de objeto</descripcionproducto>
+            <precio>30 euros</precio>
+        </producto>
+
+
+    </productos>
+             
+</tienda>

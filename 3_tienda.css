@@ -1,0 +1,23 @@
+header {
+  font-size: 30px;
+  text-align: center;
+}
+#introducion {
+  width: 100%;
+  background-color: grey;
+  border-radius: 15px;
+  text-align: center;
+}
+.cajadeproductos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+.producto {
+  background-color: grey;
+  padding: 5px;
+}
+.producto:hover {
+  border-radius: 15px;
+  transform: scale(1.05);
+}
